@@ -1,4 +1,3 @@
-﻿## NER-with-BERT-LSTM
  
 # NER with LSTM: 
 A custom NER model built with PyTorch that leverages an LSTM (Long Short-Term Memory) network for sequence labeling. The dataset is tokenized, padded, and encoded into word indices, and the LSTM processes these word embeddings to predict NER tags. Training is done using cross-entropy loss, and evaluation involves generating classification metrics like precision, recall, and F1-score. The LSTM model is lightweight and designed for those learning to build sequence models from scratch.
